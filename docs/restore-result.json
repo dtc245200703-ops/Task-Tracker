@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "file": "backups/task-tracker-2026-10-21T16-48-16-244Z.sql",
+  "projectsBefore": 1,
+  "projectsAfter": 1,
+  "tasksBefore": 5,
+  "tasksAfter": 5,
+  "markerRemoved": true,
+  "vietnameseDataMatched": true,
+  "loginAfterRestore": true
+}

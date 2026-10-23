@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-21",
+  "browser": "Microsoft Edge / Playwright",
+  "viewport": "1440x1000; 390x844",
+  "passed": [
+    "Đăng nhập trưởng nhóm và quản trị viên",
+    "Hiển thị tổng quan và ba cột trạng thái",
+    "Xem dự án",
+    "Tạo công việc qua biểu mẫu",
+    "Bình luận và xem chi tiết",
+    "Xóa công việc kiểm thử",
+    "Màn hình nhỏ không tràn ngang",
+    "Đăng xuất và xem quản lý tài khoản"
+  ],
+  "pageErrors": []
+}
